@@ -11,7 +11,7 @@ I upload studies, poses, and pages as I practice composition, anatomy, and light
 - `originals/` & `cleaned/`: raw scans and lightly edited versions.
 
 ## Notes
-- Tools: pencil/ink, Clip Studio / Krita / Procreate (varía por pieza).
+- Tools: Medibang / Krita.
 - File names: `YYYY-MM-DD_subject_style_v#.ext` for easy sorting.
 
 ## Usage / License
